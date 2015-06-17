@@ -1,2 +1,3 @@
 # JavaScript
-Basic Javascript Codes
+Basic Javascript Codes 
+Practice Codes for  Udacity Course
